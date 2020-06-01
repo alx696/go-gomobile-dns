@@ -1,0 +1,7 @@
+module github.com/alx696/go-gomobile-dns
+
+go 1.14
+
+require (
+	github.com/miekg/dns v1.1.29
+)
